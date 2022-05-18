@@ -1,0 +1,46 @@
+#password{
+   font-style: italic;
+   font-size: large;
+   font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+
+
+#email{
+    font-style: italic;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+ }
+
+
+
+
+ #username{
+    font-style: italic;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+ }
+
+
+
+
+
+ #month{
+    font-style: italic;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+ }
+
+
+
+
+
+
+ #number{
+    font-style: italic;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-language-override: ;
+ }
